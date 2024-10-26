@@ -1,24 +1,17 @@
 # Pokémon Search App
-
-A simple search app that allows you to search for Pokémon by name or ID, and displays information about the searched Pokémon.
-
-## Demo
-
-[View the demo](https://raw.githack.com/username/pokemon-search/master/index.html)
+This is a simple web app that allows users to search for Pokémon by name or ID and displays information about the Pokémon.
 
 ## Features
-
-*   Search for Pokémon by name or ID
-*   Display information about the searched Pokémon, including name, ID, types, weight, height, and base stats
-*   Responsive design for mobile devices
+* Search for Pokémon by name or ID
+* Displays Pokémon information including name, ID, weight, height, and stats (HP, Attack, Defense, Special Attack, Special Defense, and Speed)
+* Displays Pokémon types
+* Uses the PokeAPI for data
 
 ## Technologies Used
+* HTML
+* CSS
+* JavaScript
+* PokeAPI
 
-*   HTML
-*   CSS
-*   JavaScript
-*   PokeAPI
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+## Running the App
+To run the app, simply open the index.html file in a web browser. The app will load the necessary data from the PokeAPI and allow you to search for Pokémon.
